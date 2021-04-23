@@ -1,2 +1,1 @@
-hi, this is chandra. this is demo file.
-welcome.
+hi, this is chandra. this
