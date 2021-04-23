@@ -102,7 +102,7 @@ vsts.client-secret: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Im9PdmN6NU1fN3A
 
 
 
-# google auth credentials
+# google auth credentials #
 
-auth-google.client-id: '302605676476-23hdivpvj99qi3a9hkij8v0e1o2fkjav.apps.googleusercontent.com'
-auth-google.client-secret: '7xhDs4RFq187iF9y-xLsVvHi'
+auth-google.client-id: '610704846999-8gokvno1aqfjmf07futncdn5kno3ihel.apps.googleusercontent.com'
+auth-google.client-secret: 'Ic2PyyOVBO_uvPFCVRMb7tm2'
