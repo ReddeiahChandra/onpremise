@@ -77,19 +77,12 @@ transaction-events.force-disable-internal-project: true
 ######################
 
 # github-login.extended-permissions: ['repo']
-# github-app.id: GITHUB_APP_ID
-# github-app.name: 'GITHUB_APP_NAME'
-# github-app.webhook-secret: 'GITHUB_WEBHOOK_SECRET' # Use only if configured in GitHub
-# github-app.client-id: 'GITHUB_CLIENT_ID'
-# github-app.client-secret: 'GITHUB_CLIENT_SECRET'
-# github-app.private-key: |
-#   -----BEGIN RSA PRIVATE KEY-----
-#   privatekeyprivatekeyprivatekeyprivatekey
-#   privatekeyprivatekeyprivatekeyprivatekey
-#   privatekeyprivatekeyprivatekeyprivatekey
-#   privatekeyprivatekeyprivatekeyprivatekey
-#   privatekeyprivatekeyprivatekeyprivatekey
-#   -----END RSA PRIVATE KEY-----
+github-app.id: '111982'
+github-app.name: 'onpremise1'
+github-app.webhook-secret: 'bdeff92bbb2a2cb7134a53b12e4586185b835c6b' # Use only if configured in Git
+github-app.client-id: 'Iv1.b3973cf27fb143f4'
+github-app.client-secret: '5a54ad470a50fbcda05b6fbf485adae517696771'
+github-app.private-key: 'MIIEowIBAAKCAQEA43ibPVO/3NWylSndacCnWDZ5B4TwtxRxgkNg2RmMrOIYL3hY yiWWVtoYdXJQ/hUacurQ5ttPd3jjBrxUNA27io+ekrMiIJryte4lss2igY2UJXQl rjx3wsoZ8aFuAVm0zbStpQExhd2SbzqDVmwRY5WGCKxnizo4GZiQWfV1MUWJZtP7 M0C1nO5Ltmf4xOgsblB82jFkeONfLzT6LwlMKP3v85H1NnPbFMUokl8tzaUNf5B0 g/6L+dAbQHdvkYcE6M+iG8fNfEVtFWXrC55EVbUR0GpBoDkmjNhVH/HXlVqRpVC3 ps4Q7xuDl39nHbsVcTDjQO9PuL/VFLTvXdabqQIDAQABAoIBAQCDuhQsL5OsDxSb zOKrmyVNsD3mXNYJL42MIfizwFf2xfe7hbXlWl71bNc9LDY67X2jjtfq2JXsWdUe 0XDxtAIm+4SY76OTvidPs9mg8fRpkdN43Qn1HI89/kuH4jQSFCDf/wGPzGEhZG6o evoT0gE/6hb0buKHfe9+4xq0/bAgF0zvQ5EQ+xjt7qZQjHthuRoUrfSFwfuMJppj MNUiGy7vS0azkhSsS8fjBZOtdXfqIbnOta4WNb1KDaJkT4rvzEErI2Oc0Et3MwnB QSLQ+NKaSriXveCwHV+McZHuEv+TMdmDRscnH6Av3f93jOVoJeZluKM7lDlPj9Ly 1nVHglEBAoGBAPzQI5FHKpPzSqX5a1vAHFkkvrAd2EPnPlfWkAETk6D28zYiMwFt Rp+eSmI+5xzMpi259CbYVG39BDQ4xFb/vfOltxkgQtiAntN/dfAqe/I4v0oUTLDe YVLIZr2pJKmvA7fl3U1wClbZhPWFSXvz4N7r0Zg+70uSQwPGsI70q+IbAoGBAOZW r4xR4uhmrJOcsrYtdDfIAR36k9R+a1oqzuZqkS7LVejhm8RPN6xA24n5nPDYPheR Ddzqc5dMJ/y1xVcrvz1al8m8kn/w3kiBJGeL5u/80PVDTYkbpoHktLuDgORAqd4j Y18cmc1oDj/JmeDgYvb7cxdIbOFfaSh9qCc5TfWLAoGAFixbMj6/qUJJZc0+cUmk Mt1aLDAx66K4gRO8hZul8xQ1uKW/O3zOGOnVNFC4DHqWiKQqmc2Xeh4a5EmmTssX aes65+VAd6SwSXSAb5QKUvBPNrwZDdozRwN0n2XaZVeIR/TNOCF/hqaFVtNd4pU9 P9AHDgdXDZXCcu5WRfOHr8kCgYAlpS9FuLBkGTvFWEvg+GbRIxADrUtx5EN5VhvA jtQxmKvuxsileej4bxUyZKhguIbVZTCl1W+U3659X9vj1lOIHIFISFiNLnm10d14 SuYwfNpN63UFno5FFnLvXpu3MlZQ5um7xrngV0xU4ocSuLmT8h6qRHz/DI/sPTU5 S+VQ5wKBgEXiAJDlbbrJ6H/gFqos15xq5m2i8MpFtckgAt1H/B2zZtJEp2CQkdXK c48rdzR0QsilTDvtbmGbUkePT+NFJMWU152iolSh7eIzeiL6AIfvjGITd/XxmDSZ rxrGum+nyevh33KiICoYmCC4vcdKH9M5QrAuWBeH70GEkO2RVt0l'
 
 #####################
 # Slack Integration #
