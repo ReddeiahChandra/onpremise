@@ -104,5 +104,5 @@ vsts.client-secret: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Im9PdmN6NU1fN3A
 
 # google auth credentials #
 
-auth-google.client-id: '610704846999-8gokvno1aqfjmf07futncdn5kno3ihel.apps.googleusercontent.com'
-auth-google.client-secret: 'Ic2PyyOVBO_uvPFCVRMb7tm2'
+auth-google.client-id: '302605676476-65i3uq0lhdj3tumm97h5aqspaugveod9.apps.googleusercontent.com'
+auth-google.client-secret: 'AfuYjAPEhskOSVVFoP1vdW96'
