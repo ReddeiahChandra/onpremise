@@ -77,37 +77,37 @@ transaction-events.force-disable-internal-project: true
 ######################
 
 # github-login.extended-permissions: ['repo']
-github-app.id: 111982
-github-app.name: 'onpremise1'
-github-app.webhook-secret: 'bdeff92bbb2a2cb7134a53b12e4586185b835c6b' # Use only if configured in Git
-github-app.client-id: 'Iv1.b3973cf27fb143f4'
-github-app.client-secret: '5a54ad470a50fbcda05b6fbf485adae517696771'
+github-app.id: 112633
+github-app.name: 'onpremise2'
+github-app.webhook-secret: '025a5f2b0eadee6a57169bdaaf7be2300555ca97' # Use only if configured in Git
+github-app.client-id: 'Iv1.7f03655b88aea38d'
+github-app.client-secret: '61d8e3d7ba5ae146fa33d36377cd21d5f828d9a6'
 github-app.private-key: "-----BEGIN RSA PRIVATE KEY-----\n
-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\n
+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\n
 -----END RSA PRIVATE KEY-----\n"
 
 #####################
