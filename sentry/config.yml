@@ -76,13 +76,39 @@ transaction-events.force-disable-internal-project: true
 # GitHub Integration #
 ######################
 
-github-login.extended-permissions: ['repo']
+# github-login.extended-permissions: ['repo']
 github-app.id: 111982
 github-app.name: 'onpremise1'
 github-app.webhook-secret: 'bdeff92bbb2a2cb7134a53b12e4586185b835c6b' # Use only if configured in Git
 github-app.client-id: 'Iv1.b3973cf27fb143f4'
 github-app.client-secret: '5a54ad470a50fbcda05b6fbf485adae517696771'
-github-app.private-key: 'MIIEowIBAAKCAQEA43ibPVO/3NWylSndacCnWDZ5B4TwtxRxgkNg2RmMrOIYL3hY yiWWVtoYdXJQ/hUacurQ5ttPd3jjBrxUNA27io+ekrMiIJryte4lss2igY2UJXQl rjx3wsoZ8aFuAVm0zbStpQExhd2SbzqDVmwRY5WGCKxnizo4GZiQWfV1MUWJZtP7 M0C1nO5Ltmf4xOgsblB82jFkeONfLzT6LwlMKP3v85H1NnPbFMUokl8tzaUNf5B0 g/6L+dAbQHdvkYcE6M+iG8fNfEVtFWXrC55EVbUR0GpBoDkmjNhVH/HXlVqRpVC3 ps4Q7xuDl39nHbsVcTDjQO9PuL/VFLTvXdabqQIDAQABAoIBAQCDuhQsL5OsDxSb zOKrmyVNsD3mXNYJL42MIfizwFf2xfe7hbXlWl71bNc9LDY67X2jjtfq2JXsWdUe 0XDxtAIm+4SY76OTvidPs9mg8fRpkdN43Qn1HI89/kuH4jQSFCDf/wGPzGEhZG6o evoT0gE/6hb0buKHfe9+4xq0/bAgF0zvQ5EQ+xjt7qZQjHthuRoUrfSFwfuMJppj MNUiGy7vS0azkhSsS8fjBZOtdXfqIbnOta4WNb1KDaJkT4rvzEErI2Oc0Et3MwnB QSLQ+NKaSriXveCwHV+McZHuEv+TMdmDRscnH6Av3f93jOVoJeZluKM7lDlPj9Ly 1nVHglEBAoGBAPzQI5FHKpPzSqX5a1vAHFkkvrAd2EPnPlfWkAETk6D28zYiMwFt Rp+eSmI+5xzMpi259CbYVG39BDQ4xFb/vfOltxkgQtiAntN/dfAqe/I4v0oUTLDe YVLIZr2pJKmvA7fl3U1wClbZhPWFSXvz4N7r0Zg+70uSQwPGsI70q+IbAoGBAOZW r4xR4uhmrJOcsrYtdDfIAR36k9R+a1oqzuZqkS7LVejhm8RPN6xA24n5nPDYPheR Ddzqc5dMJ/y1xVcrvz1al8m8kn/w3kiBJGeL5u/80PVDTYkbpoHktLuDgORAqd4j Y18cmc1oDj/JmeDgYvb7cxdIbOFfaSh9qCc5TfWLAoGAFixbMj6/qUJJZc0+cUmk Mt1aLDAx66K4gRO8hZul8xQ1uKW/O3zOGOnVNFC4DHqWiKQqmc2Xeh4a5EmmTssX aes65+VAd6SwSXSAb5QKUvBPNrwZDdozRwN0n2XaZVeIR/TNOCF/hqaFVtNd4pU9 P9AHDgdXDZXCcu5WRfOHr8kCgYAlpS9FuLBkGTvFWEvg+GbRIxADrUtx5EN5VhvA jtQxmKvuxsileej4bxUyZKhguIbVZTCl1W+U3659X9vj1lOIHIFISFiNLnm10d14 SuYwfNpN63UFno5FFnLvXpu3MlZQ5um7xrngV0xU4ocSuLmT8h6qRHz/DI/sPTU5 S+VQ5wKBgEXiAJDlbbrJ6H/gFqos15xq5m2i8MpFtckgAt1H/B2zZtJEp2CQkdXK c48rdzR0QsilTDvtbmGbUkePT+NFJMWU152iolSh7eIzeiL6AIfvjGITd/XxmDSZ rxrGum+nyevh33KiICoYmCC4vcdKH9M5QrAuWBeH70GEkO2RVt0l'
+github-app.private-key: "-----BEGIN RSA PRIVATE KEY-----\n
+MIIEogIBAAKCAQEAtaxSZkWXwd3PvD64fvhJ5EE+/MQW0tRwZFM5JlP/JMFxdjRo\n
+RXyAvDfrwoehOFs8EdsLoooymhmxgixDTadjztIOqEDEJF+Vbjxn94QwZVxJKWf6\n
++HDd4NrYrMU5OtUQ9i92W8L2DnlbIFOfSfmOfQIKRQ1FEAOQMUN0aTPQMTnXL3Gs\n
+zezyJmkQSBDnp/sJSE4pEqVVLxhTHIvIhoIFxQNYNS2P8DOSplJgOhPjP/61sv9V\n
+Gu7gTMGQHc+ia9X1Bdb42j0aRhHP/zVt153V48X/Sqm1MxEF99Vp8xJd+LSuWzy6\n
+vd+Hy/cPyjhf2CI0/xstdaFtVWPsbJKbIVrCNwIDAQABAoIBADl9bZnlne+AhNN6\n
+OaIcai2sJAWS+/H9vg9Rcr1ZSV1VRdV1IiYTDx4AyD+H8hHGdUzlN1pZR0gSp2Sd\n
+IzM4rFHvkSnXTPqBsOTwgqoGD9aTjKdouzfRZ7VXK8gIpWKjuDlfraG+IWVVK+wf\n
+6kFbkqamdZ+CYn990Sx1vynndpOMw/FMkR0u9Ty4LH2HRwbXBl1vksRBvsKT7hkg\n
+cA332oD0dDEKa8va5xDanG0si8BHPoUpdeSx1haiGnXzUgZVvlJTuaNX2Hs6kNop\n
+5d1xY/5ORQMB1/QafNJcCW2ABedNEf94Y1Qbk+oYaZGYnOwdKtweZp9XFz5Kfs61\n
+Wk6u6AECgYEA7/0oEExrbrNzirdTavGvfQ2v9IWkBoFjGbT2Y6/RkZ3Z1GxRTppD\n
+1qTkGrGKturvFhgQ4gJ4N37nlDdpIwy7xtyo0mBdPRHGcI+P3KU8Vvg53dsGfzpr\n
+YPYuQudr4sUdRxYjIWSh6qrQotZok1WfBSw00WmGhk0dyCqw4sB/tAECgYEAwcss\n
+Nyc78CdC4Nom9XiQCp/v+ydfG75gQLx3RcbBIwgBt10XMwaUz2zwDUXEn04yqG0S\n
++XghzDzVRHgV8Qz4B2zDNAdg/ub1mBXo4/Iwf1sbtfqk1zhfhRMfDSdbVsh1hy8/\n
+HVXyLhNVT9VCIkp4VjwHkV0fIRS4SM4bOvBzFjcCgYAaYGWd3PhV021YiqulbmjO\n
+QsnbAzEy8deVhLkr3bAX5BSD71/EVtor5jWX5XmMfyfF8uEwJftWhiEnvitVCdo9\n
+khUQAj1dL+3ygyTZqGOIX4Hkq2T8aMxSfNw6yDqoUufT30//JJNTOnDx5MTbpKZ0\n
+qBYqCgIaErG6RU7prSScAQKBgGI4V3CcsgRF4d+Usao4MMkxxq/EhK/LDX3CB7GV\n
+ys22gSguRlPWQhXfYMtZUQ5s08AJiFRoTrj1HCJXuscxi4Q327fDBaYr6M3sTN07\n
+Itlpk+Hn5yQtrjwENPi1udWCRA8AIzz7EoPHyLVtoNdAZz1Nr4g9akmZ9szvqV12\n
+AN6BAoGADUWNpjod8MGu7YhJ5HJ1FzHQxWCa+Bcbx10ydPfQaTOtYG8ZjuVYOJkt\n
+Cu/9z6ebXSD5dzanAIp76lXvjTD9e+hJCGtAdXxA9Lxu1e0kiWVihXIL+mq4Wm8z\n
+6FpagYc3nA/sHlMSC5lAsAqo/ALhveVvj64nauCY+Ep4eMJDZT4=\n
+-----END RSA PRIVATE KEY-----\n"
 
 #####################
 # Slack Integration #
@@ -103,5 +129,5 @@ vsts.client-secret: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Im9PdmN6NU1fN3A
 
 # google auth credentials #
 
-auth-google.client-id: '302605676476-65i3uq0lhdj3tumm97h5aqspaugveod9.apps.googleusercontent.com'
-auth-google.client-secret: 'AfuYjAPEhskOSVVFoP1vdW96'
+auth-google.client-id: '610704846999-6ca37t734vripgqj9d81ncaee9sdn4sf.apps.googleusercontent.com'
+auth-google.client-secret: 'hLcEK2wrse-gIsTDJM4j0uSP'
